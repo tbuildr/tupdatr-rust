@@ -17,3 +17,8 @@
 
 # OS
 .DS_Store
+
+# devenv / direnv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
